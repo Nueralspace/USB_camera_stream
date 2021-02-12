@@ -6,11 +6,13 @@ USB camera streaming Project
 This instructions will help you to stream USB camera video frames data on local host.
 
 ### Prerequisites
-
+```
 Linux (>= 14.04)
-mplayer utility
-nc utility
 
+mplayer utility
+
+nc utility
+```
 ### Instruction
 ```
 
