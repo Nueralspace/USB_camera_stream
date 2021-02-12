@@ -580,8 +580,6 @@ long_options[] = {
 int main(int argc, char **argv)
 {
         dev_name = "/dev/video2";
-        
-        mkfifo(myfifo, 0666);
 
         for (;;) {
                 int idx;
