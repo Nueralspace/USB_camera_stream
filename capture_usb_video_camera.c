@@ -23,8 +23,6 @@
 
 #include <linux/videodev2.h>
 
-char * myfifo = "/home/sonangpatel/Desktop/v4l2_utility/myfifo";
-
 #define CLEAR(x) memset(&(x), 0, sizeof(x))
 
 enum io_method {
